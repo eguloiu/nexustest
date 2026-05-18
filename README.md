@@ -1,3 +1,0 @@
-# nexustest
-# AndreiGUI
-# valentinGUI
